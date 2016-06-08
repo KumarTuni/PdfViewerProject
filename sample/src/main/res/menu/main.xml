@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/prnt"
+        android:title="Print"
+        android:showAsAction="always"
+        />
+    <item
+        android:id="@+id/email"
+        android:title="Email"
+        android:showAsAction="always"
+        />
+
+</menu>
